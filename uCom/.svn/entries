@@ -1,0 +1,121 @@
+8
+
+dir
+0
+file:///\x5cAndres/svn/Proyectos/uCom/uCom
+file:///\x5cAndres/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+FormularioAgregarContacto.resx
+file
+
+
+
+add
+
+FormularioPrincipal.Designer.cs
+file
+
+
+
+add
+
+FormularioPrincipal.cs
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+
+FormularioCharla.Designer.cs
+file
+
+
+
+add
+
+FormularioCharla.cs
+file
+
+
+
+add
+
+FormularioPrincipal.resx
+file
+
+
+
+add
+
+uCom.csproj
+file
+
+
+
+add
+
+FormularioAgregarContacto.Designer.cs
+file
+
+
+
+add
+
+FormularioAgregarContacto.cs
+file
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+obj
+dir
+
+
+
+add
+
+FormularioCharla.resx
+file
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+
+Contacto.cs
+file
+
+
+
+add
+
